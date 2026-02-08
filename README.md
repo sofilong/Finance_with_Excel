@@ -5,7 +5,8 @@
 
 <h2>Why this file is unique?</h2>
 <p>
-  This file not only clasifies your personal finance but also offer a nice dashboard with simple graph that helps you see where you spend your money the most so you can come up with your own plan to reduce your cost and maxime your savings. 
+  This file not only clasifies your personal finance but also offer a nice dashboard with simple graph that helps you see where you spend your money the most so you can come up with your own plan to reduce your cost and maxime your savings. Here's a single <img src="https://raw.githubusercontent.com/sofilong/Finance_with_Excel/main/images/dashboard.jpg" alt="Dashboard viz">
+
 </p>
 
 <h2>What’s here</h2>
