@@ -5,7 +5,7 @@
 
 <h2>Why this file is unique?</h2>
 <p>
-  This file not only clasifies your personal finance but also offer a nice dashboard with simple graph that helps you see where you spend your money the most so you can come up with your own plan to reduce your cost and maxime your savings. Here's a single <img src="Personal finance.jpg" alt="Dashboard viz">
+  This file not only clasifies your personal finance but also offer a nice dashboard with simple graph that helps you see where you spend your money the most so you can come up with your own plan to reduce your cost and maxime your savings. Here's a dashboard that you will help you see what your spending are and where you should look for saving opportunities <img src="Personal finance.jpg" alt="Dashboard viz">
 
 </p>
 
