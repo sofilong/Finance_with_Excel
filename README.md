@@ -19,5 +19,5 @@
 <ul>
   <li>Track your personal finance</li>
   <li>help clasify your finances in low, medium, high</li>
-  <li>Help see overspending and plan for saving</li>
+  <li>Help see overspending and plan for savings</li>
 </ul>
